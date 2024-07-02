@@ -6,6 +6,8 @@
     background-repeat: no-repeat;
     background-position: center;
     .cabeçalho {
+        background-color: var(--branco);
+    } 
 
         background-color: var(--branco);
         display: flex;
